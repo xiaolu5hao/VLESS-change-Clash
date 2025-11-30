@@ -1,2 +1,2 @@
-# VLESS-Clash-
-由deepseek生成的用来VLESS到 Clash配置转换的html文件，完全本地运行
+# VLESS链接转换成Clash的yaml文件
+由deepseek生成的用来VLESS到Clash配置转换的html文件，完全本地运行
